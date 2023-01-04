@@ -1,0 +1,27 @@
+segment_sources:
+  I66223C26:
+    type: origin_type
+    relation: translation
+    base: D76A
+    lang: en
+  I5B1AFA18:
+    type: origin_type
+    relation: translation
+    base: A4B9
+    lang: bo
+segment_pairs:
+  dc9c2c15d01d4d95bd45e67e7c853c60:
+    I66223C26: 1a2d54e9a7464c32ae3c0fbaa3d23cd5
+    I5B1AFA18: 37a988f0ebaa4191ae18f1195bd25a69
+  0726635875564aef918f122e243ca150:
+    I66223C26: 61b2679a13f44231ae7c21d50a542c99
+    I5B1AFA18: f87c3efbbcbc41debf9e3aba77396a06
+  7f45219ccfae49ed86020e45ef282e87:
+    I66223C26: ec5fb3faaba246c28fcd2ebe3afbbf75
+    I5B1AFA18: 93c628b25f3b40a9b65e527f226ed66e
+  107167437f394d7486c2dc7c93002869:
+    I66223C26: aa664da222fc43278d04eb1f4cf2134a
+    I5B1AFA18: f4c0eb1c14b0423994480d8026ab50dd
+  89b3ec922ded48cfb7b2568a9781064f:
+    I66223C26: 4819894d38c744968b74251bce7de0aa
+    I5B1AFA18: abead6a384cc4cb1a11277855a3ca460
